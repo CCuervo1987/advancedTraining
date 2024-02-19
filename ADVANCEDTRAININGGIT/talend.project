@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_8UM_Yc96Ee6yt4Jcav22xw" label="advancedTrainingGit" description="Proyecto asociado a la capacitación Talend Data&#xA;IntegrationAdvanced&#xA;" language="java" technicalLabel="ADVANCEDTRAININGGIT" author="_8UNmcM96Ee6yt4Jcav22xw" productVersion="Talend Cloud API Services Platform-8.0.1.20240118_0425-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/CCuervo1987/advancedTraining&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
+    <migrationTask xmi:id="_8VUZsM96Ee6yt4Jcav22xw" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_8UNmcM96Ee6yt4Jcav22xw" login="camilo.cuervo@trial51329.us.talend.com" firstName="Camilo" lastName="Cuervo Ramirez" type="DQ"/>
+</xmi:XMI>
